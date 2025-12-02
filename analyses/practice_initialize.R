@@ -43,3 +43,4 @@ test_un_deux <- c("1", "2")
 # ma new branch est cestpasunebrancheenvrai
 
 # ajout sauf pour main cette fois
+# on est pas obligés d'avoir des conflits
