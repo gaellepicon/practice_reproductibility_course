@@ -44,3 +44,4 @@ test_un_deux <- c("1", "2")
 
 # décalage ligne 46 il se passe quoi?
 # ajout que sauf test pour main cette fois
+# on est pas obligés d'avoir des conflits
